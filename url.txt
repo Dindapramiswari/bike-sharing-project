@@ -1,1 +1,1 @@
-https://GANTI-DENGAN-NAMA-APP-ANDA.streamlit.app
+https://bike-sharing-project-dindapramiswari.streamlit.app/
