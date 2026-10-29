@@ -10,7 +10,7 @@ import streamlit as st
 st.set_page_config(page_title="Bike Sharing Dashboard", page_icon="🚲", layout="wide")
 sns.set_theme(style="white")
 
-# Palet warna (aman untuk buta warna): abu-abu dasar, biru sorotan, oranye pembanding
+
 BASE, HIGHLIGHT, ACCENT = "#B8C4D0", "#1F6FB2", "#E07B00"
 SEASON_ORDER = ["Winter", "Spring", "Summer", "Fall"]
 WEATHER_ORDER = ["Cerah", "Berkabut", "Hujan Ringan", "Hujan Lebat"]
